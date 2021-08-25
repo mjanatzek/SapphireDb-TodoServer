@@ -6,7 +6,7 @@
 
     <ItemGroup>
       <PackageReference Include="FileContextCore" Version="3.3.0" />
-      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.4" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.18" />
       <PackageReference Include="SapphireDb" Version="2.1.3" />
     </ItemGroup>
 
